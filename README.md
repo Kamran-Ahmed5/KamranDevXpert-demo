@@ -1,3 +1,4 @@
 # KamranDevXpert-demo
-It's my  First Demo repository 
-| Author - KamranDevXpert 
+It's my  First Demo repository.
+<br>
+Author - KamranDevXpert 
